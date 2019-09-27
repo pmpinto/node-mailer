@@ -1,0 +1,23 @@
+{
+  "name": "node-mailer",
+  "version": "1.0.0",
+  "description": "Send an email from Node.js",
+  "main": "index.js",
+  "scripts": {
+    "send": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmpinto/node-mailer.git"
+  },
+  "keywords": [],
+  "author": "Pedro Pinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmpinto/node-mailer/issues"
+  },
+  "homepage": "https://github.com/pmpinto/node-mailer#readme",
+  "dependencies": {
+    "nodemailer": "^6.3.0"
+  }
+}
