@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/pmpinto/node-mailer#readme",
   "dependencies": {
-    "nodemailer": "^6.3.0"
+    "nodemailer": "^6.4.16"
   }
 }
